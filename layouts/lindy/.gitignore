@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/layout-lindy
+layout-lindy.so
+layout-lindy.dylib
+layout-lindy.dll
+layout-lindy.a
+layout-lindy.lib
+layout-lindy-test-*
+*.exe
+*.o
+*.obj
+*.lst

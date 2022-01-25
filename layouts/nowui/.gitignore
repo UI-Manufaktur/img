@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/layout-nowui
+layout-nowui.so
+layout-nowui.dylib
+layout-nowui.dll
+layout-nowui.a
+layout-nowui.lib
+layout-nowui-test-*
+*.exe
+*.o
+*.obj
+*.lst

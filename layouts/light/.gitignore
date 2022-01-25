@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/layout-light
+layout-light.so
+layout-light.dylib
+layout-light.dll
+layout-light.a
+layout-light.lib
+layout-light-test-*
+*.exe
+*.o
+*.obj
+*.lst

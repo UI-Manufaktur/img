@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/web-materialkit
+web-materialkit.so
+web-materialkit.dylib
+web-materialkit.dll
+web-materialkit.a
+web-materialkit.lib
+web-materialkit-test-*
+*.exe
+*.o
+*.obj
+*.lst

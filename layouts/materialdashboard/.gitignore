@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/layout-materialdashboard
+layout-materialdashboard.so
+layout-materialdashboard.dylib
+layout-materialdashboard.dll
+layout-materialdashboard.a
+layout-materialdashboard.lib
+layout-materialdashboard-test-*
+*.exe
+*.o
+*.obj
+*.lst
